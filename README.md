@@ -40,8 +40,6 @@ Problem Solving: Solutions to coding challenges and algorithmic puzzles.
 
 Projects: More complex projects that involve multiple concepts and languages, eventually building up to larger applications.
 
-📸 Demo Screenshot
-
 🧩 How It Works
 
 The repository is structured into language-specific folders for easier navigation. Each folder contains:
